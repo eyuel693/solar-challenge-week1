@@ -6,3 +6,14 @@ This repository contains setup and starter files for Week 0 of the Artificial In
 
 ## Project Structure
 
+ ```bash
+   git clone https://github.com/eyuel693/solar-challenge-week1
+   cd solar-challenge-week1
+```
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+```
+pip install -r requirements.txt
+``` 
